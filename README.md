@@ -1,3 +1,4 @@
+
 # 👋 Hello, World!
 
 ## 🎓 Education
@@ -6,22 +7,26 @@
 - Department of Computer Engineering
 - Undergraduate Student
 
-## 💡 Interests
+## 💡 Areas of Interest
 
 - Computer Networks
-- Algorithm & Problem Solving
-- Data Analysis & Processing
-- Software Development
+- Computer System Security
+- Algorithms & Problem Solving
+
+## 🛠️ Experience & Skills
+
+- Data Collection & Preprocessing
+- Data Cleaning & Integration
+- Python & Pandas
+- Git & GitHub Collaboration
 
 ## 📚 Activities & Experience
 
-**2026 KNU 데이터톤**
+### 2026 KNU 데이터톤
 
-공공데이터 기반 서비스 개발 팀 프로젝트 참여
-
-Python 및 Pandas를 활용한 데이터 전처리
-
-GitHub를 활용한 팀 협업 및 웹 서비스 구현 참여
+- 공공데이터 기반 서비스 개발 팀 프로젝트 참여
+- Python 및 Pandas를 활용한 데이터 수집 및 전처리
+- GitHub를 활용한 팀 협업 및 웹 서비스 구현 참여
 
 ## 🏆 Awards
 
