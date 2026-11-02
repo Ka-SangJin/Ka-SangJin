@@ -13,6 +13,16 @@
 - Data Analysis & Processing
 - Software Development
 
+## 📚 Activities & Experience
+
+**2026 KNU 데이터톤**
+
+공공데이터 기반 서비스 개발 팀 프로젝트 참여
+
+Python 및 Pandas를 활용한 데이터 전처리
+
+GitHub를 활용한 팀 협업 및 웹 서비스 구현 참여
+
 ## 🏆 Awards
 
 ### 🥇 2026 KNU 데이터톤 — 대상 (Grand Prize)
