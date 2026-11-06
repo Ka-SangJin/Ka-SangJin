@@ -7,11 +7,9 @@
 - Department of Computer Engineering
 - Undergraduate Student
 
-## 💡 Areas of Interest
+## 💡 Interest
 
 - Computer Networks
-- Computer System Security
-- Algorithms & Problem Solving
 
 ## 🛠️ Experience & Skills
 
