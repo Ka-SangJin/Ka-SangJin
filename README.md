@@ -1,45 +1,28 @@
 
-# 👋 Hello, World!
+# Ka-SangJin 👋
 
-## 🎓 Education
+🎓 Computer Engineering Student at Kangwon National University
 
-**Kangwon National University**
-- Department of Computer Engineering
-- Undergraduate Student
+🌐 Interested in Network Engineering
 
-## 💡 Interest
+## 🛠️ Tech Stack
 
-- Computer Networks
+![Tech Stack](https://skillicons.dev/icons?i=python,flask,react,ts,postgres,git)
 
-## 🛠️ Experience & Skills
+## 🏅 Baekjoon
 
-- Data Collection & Preprocessing
-- Data Cleaning & Integration
-- Python & Pandas
-- Git & GitHub Collaboration
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kash1218)](https://solved.ac/profile/kash1218)
 
-## 📚 Activities & Experience
+## 🚀 Featured Project
 
-### 2026 KNU 데이터톤
+### 🍽️ [EATDA (잇다)](https://github.com/bangjeongwoo1/datathon5)
 
-- 공공데이터 기반 서비스 개발 팀 프로젝트 참여
-- Python 및 Pandas를 활용한 데이터 수집 및 전처리
-- GitHub를 활용한 팀 협업 및 웹 서비스 구현 참여
+**2026 KNU Datathon Team Project**
 
-## 🏆 Awards
+지역 가맹점 정보를 기반으로 음식점 검색과 길찾기를 지원하는 웹 서비스
 
-### 🥇 2026 KNU 데이터톤 — 대상 (Grand Prize)
+- 지역별 가맹점 데이터 구축 및 전처리
+- 지도 기반 가맹점 검색
+- 음성 인식(STT) 및 길찾기 기능
 
-**프로젝트: 잇다 — 춘천시 아동급식카드 가맹점 안내 서비스**
-
-춘천시 공공데이터를 활용하여 아동급식카드 가맹점 검색 및 위치 안내 서비스를 개발한 팀 프로젝트입니다.
-
-**주요 기여**
-- 공공데이터 수집 및 전처리 (4,593건 → 4,568건)
-- 가맹점 중복 검토 및 업종 정보 매칭
-- 가맹점 4,124건의 위치 좌표 연결 및 추정
-- STT 음성 검색 및 TMAP 도보 경로 기능 개발·테스트 참여
-
-**Tech Stack:** Python, Pandas, React, TypeScript, Node.js
-
-🔗 [Team Repository](https://github.com/bangjeongwoo1/datathon5)
+**Tech Stack:** React, TypeScript, Node.js, PostgreSQL
